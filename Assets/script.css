@@ -1,1 +1,6 @@
-123
+header {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    background-color: purple;
+}
